@@ -1,7 +1,7 @@
 # Poker Game – Two-Card Hand Evaluator
 
 ## About This Project
-
+ 
 This poker game was developed as an assignment following our teacher's instructions. The goal was to build a simple card game where a player receives two cards, and the program evaluates whether they form a pair or just a high card. Our teacher gave us this project to learn how to work with packages, import them correctly, and understand how Java organizes related classes.
 
 This project reviews several units covered in our course – including object-oriented programming (enums, classes, lists), collections, shuffling, and basic hand evaluation logic.
