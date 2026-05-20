@@ -1,5 +1,4 @@
 
-```markdown
 # JavaFX Chat Application
 
 ## About This Project
