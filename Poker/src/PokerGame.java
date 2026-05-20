@@ -6,7 +6,6 @@ import java.util.List;
 public class PokerGame {
    public PokerGame() {
    }
-
    public static void main(String[] var0) {
       Deck var1 = new Deck();
       var1.shuffle();
